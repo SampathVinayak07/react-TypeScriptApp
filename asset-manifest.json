@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-TypeScriptApp/static/css/main.a8eea444.css",
+    "main.js": "/react-TypeScriptApp/static/js/main.e4f89cfa.js",
+    "index.html": "/react-TypeScriptApp/index.html",
+    "main.a8eea444.css.map": "/react-TypeScriptApp/static/css/main.a8eea444.css.map",
+    "main.e4f89cfa.js.map": "/react-TypeScriptApp/static/js/main.e4f89cfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8eea444.css",
+    "static/js/main.e4f89cfa.js"
+  ]
+}
